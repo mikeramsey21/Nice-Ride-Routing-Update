@@ -7,17 +7,20 @@ We propose an improved bike-shuttling service. We noticed that at many times dur
 
 2. Depedent on the number of shuttle workers available, optimally cluster the stations that are near each other. This is performed in AMPL and is done with an algorithm similar to k-means clustering.
 
-3. Construct an optimal deliver schedule for each driver. This is done by posing the problem as a traveling salesman problem (TSP)
+3. Construct an optimal deliver schedule for each driver. This is done by posing the problem as a traveling salesman problem (TSP).
 
 ## Collaborators
 Michael Ramsey
-Eric Roberts
-Olivia Cannon
-Ariel Bowman
-Elizabeth Wicks
-Sheng Zhang
 
-After analyzing the data
+Eric Roberts
+
+Olivia Cannon
+
+Ariel Bowman
+
+Elizabeth Wicks
+
+Sheng Zhang
 
 ## Note: You will have to unzip "Nice_ride_data_2017_season"
 
