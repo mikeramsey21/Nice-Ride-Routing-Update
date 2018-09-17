@@ -1,5 +1,23 @@
 # Nice-Ride-Routing-Update
-A cleaned version of Nice Ride Routing
+We analyze the publically avilable data from Nice Ride Minnesota for 2017 to identify pitfalls of the system and provide solutions for improvment. 
+
+We propose an improved bike-shuttling service. We noticed that at many times during the day, a subset of the stations experienced periods of high flux. In other words, many bikes were either leaving the station or going toward a station. This causes the bike docking station to either become empty or full. If this happens, this causes customers to become unhappy and dissatisfied, which leads to decresed revenue. After interviewing NiceRide experts, we learned that they have not implemented a data-driven method to shuttle bikes. We propose the following
+
+1. Identify problematic stations during a given time interval (ex 5-10am). A problem station is defined as a station that falls outside the docking capacity range of 20-80%. 
+
+2. Depedent on the number of shuttle workers available, optimally cluster the stations that are near each other. This is performed in AMPL and is done with an algorithm similar to k-means clustering.
+
+3. Construct an optimal deliver schedule for each driver. This is done by posing the problem as a traveling salesman problem (TSP)
+
+## Collaborators
+Michael Ramsey
+Eric Roberts
+Olivia Cannon
+Ariel Bowman
+Elizabeth Wicks
+Sheng Zhang
+
+After analyzing the data
 
 ## Note: You will have to unzip "Nice_ride_data_2017_season"
 
