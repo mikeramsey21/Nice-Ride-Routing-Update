@@ -1,0 +1,204 @@
+Name,Total docks,Number,Initial
+100 Main Street SE,27,30000,13
+25th Street & 33rd Ave S,15,30001,8
+Riverside Ave & 23rd Ave S,15,30002,8
+Plymouth Ave N &  N Oliver Ave,15,30003,8
+11th Street & Hennepin,23,30004,11
+Hennepin & Central Avenue NE,15,30005,8
+YWCA Downtown,23,30006,11
+9th Street & 4th Ave,19,30007,9
+Midtown Exchange,19,30008,9
+4th Street & 13th Ave SE,27,30009,13
+Hennepin & Laurel Ave,15,30010,8
+North 2nd Street & 4th Ave N,19,30011,9
+Mpls Convention Center,19,30012,9
+Lyndale Ave S & W 29th Street,19,30013,9
+22nd Ave S & Franklin Ave,15,30014,8
+Washington & Cedar,20,30015,10
+Walker Art Center,23,30016,11
+Lyndale Ave S & 22nd Street ,19,30017,9
+MCAD,17,30018,8
+Social Sciences,27,30019,13
+YWCA Uptown,19,30020,9
+2nd Ave N & Washington Ave N,19,30021,9
+26th Street & Lyndale,15,30022,8
+Chicago & 27th Street,15,30023,8
+Coffman Union,35,30024,16
+Williamson Hall,25,30025,12
+Mayo Memorial Building,25,30026,12
+4th Street S & 19th Ave,19,30027,9
+Washington & Marquette,19,30028,9
+Hennepin County Government Center,41,30029,19
+South 2nd Street & 3rd Ave S,23,30030,11
+23rd Ave SE & 6th Street SE,23,30031,11
+4th Street & 17th Ave SE,15,30032,8
+Franklin & 11th Ave,15,30033,8
+Oak Street Ramp,23,30034,11
+Loring Park,15,30035,8
+Currie Park,15,30037,8
+E Franklin Ave & Bloomington Ave S,15,30038,8
+10th Street & Nicollet Mall,19,30039,9
+11th Street & Marquette,19,30040,9
+Franklin & Portland,15,30041,8
+IDS Center,23,30042,11
+Lake Street & Humboldt,19,30043,9
+26th Street & Hennepin,15,30044,8
+Franklin & 28th Ave,19,30045,9
+Washington Ave S & 10th Ave S,19,30046,9
+University & Bank Street SE,19,30047,9
+Dupont Ave & 22nd Street,15,30048,8
+Nicollet Ave & W 37th Street,15,30049,8
+2nd Ave S & S 3rd Street,27,30050,13
+7th Street & 4th Ave S,15,30051,8
+Nicollet Mall & Grant Street,15,30052,8
+2nd Ave N & N 6th Street,23,30053,11
+Midtown Greenway & 5th Ave S,15,30054,8
+Malcolm Ave SE & 5th Street SE,24,30055,12
+Target Field Station,19,30056,9
+McNamara Center,19,30057,9
+Elliot Hall,15,30058,8
+Glenwood Ave & N Morgan Ave,15,30059,8
+Nicollet & Franklin,23,30060,11
+W 31st Street & Hennepin Ave S,19,30061,9
+Minneapolis Farmers Market,15,30062,8
+Elliot Park,15,30063,8
+28th Street & Nicollet Ave. S,15,30064,8
+N Washington Ave & 9th Ave N,15,30065,8
+Wirth Beach,15,30066,8
+Bryant Ave N & West Broadway,15,30067,8
+Girard Ave N & W Broadway Ave,15,30068,8
+Farview Park,15,30069,8
+West Broadway & Logan Ave N,15,30070,8
+7th Street N & Plymouth Ave N,15,30071,8
+West 34th Street  & Hennepin Ave S,19,30073,9
+27th Ave SE & University Ave,15,30074,8
+Curfew Street & Ellis Ave.,15,30075,8
+Carleton Street & University Ave ,15,30076,8
+Fairview Ave & University Ave,15,30077,8
+Englewood Ave & N Asbury Street,15,30078,8
+Sherburne Ave & Snelling Ave N,15,30079,8
+Midtown YWCA,15,30080,8
+East Lake Street & 36th Ave S,15,30081,8
+N Victoria Street & University Ave ,15,30082,8
+Wilder Street & Marshall Ave,15,30083,8
+Grand Ave & Fairview Ave,15,30085,8
+Macalester College,15,30086,8
+Grant Street & Portland Ave,15,30087,8
+6th Ave SE & University Ave,27,30088,13
+Lake Calhoun Center,27,30089,13
+Portland Ave & Washington Ave,19,30090,9
+Gateway Park,19,30091,9
+2nd Street N & 8th Ave N,19,30092,9
+West 15th Street & Willow,23,30093,11
+West 32nd Street & Bryant Ave S,15,30094,8
+West 36th Street & Bryant Ave S,15,30095,8
+University Ave NE & 12th Ave NE,15,30096,8
+Pleasant Ave S &  Lake Street,15,30097,8
+Marshall Street NE & 8th Ave NE,15,30098,8
+Kowalski's Market,15,30099,8
+Lake Como Pavilion,23,30100,11
+N Milton Street & Summit Ave,15,30101,8
+Como Park Conservatory,19,30102,9
+Hague Ave & Dale Street,15,30103,8
+Logan Park,23,30104,11
+Lexington Pkwy & University Ave,15,30105,8
+Dale Street & Grand Ave.,15,30106,8
+Dale Street N & University Ave,15,30107,8
+Elliot Ave S & E 24th Street,15,30108,8
+Como Ave SE & 29th Ave SE,19,30109,9
+15th Ave SE & Como Ave SE,19,30110,9
+Hamline Ave N & University Ave,15,30111,8
+Central Ave NE & 22nd Ave NE,15,30112,8
+U of M St. Paul Student Center,15,30113,8
+3rd Ave S & E 38th Street,11,30114,6
+Washington Ave SE & Union Street SE,31,30115,15
+Minnesota History Center,15,30116,8
+10th Street E & Cedar Street,15,30117,8
+7th Place & Jackson Street,15,30118,8
+Union Depot,23,30119,11
+Kellogg Blvd E & Jackson Street,15,30120,8
+7th Street E & Wacouta Street,15,30121,8
+Broadway Street N & 4th Street E,19,30122,9
+Minnesota Dept. of Transportation,15,30123,8
+Kellogg Blvd W & Smith Ave,11,30124,6
+Cedar Street & Columbus Ave,15,30125,8
+5th Street E & Minnesota Street N,19,30126,9
+Landmark Plaza,15,30127,8
+Wells Fargo Place,15,30128,8
+Shepard Road & Sibley Street,15,30129,8
+Wabasha Street S & E Fillmore Ave,17,30130,8
+Harriet Island,19,30131,9
+Kellogg Blvd & Wabasha Street,15,30132,8
+Schmidt Brewery,15,30133,8
+Upper Landing,19,30134,9
+7th Street W & Grand Ave,15,30135,8
+Science Museum of Minnesota,15,30136,8
+Selby Ave & Virginia Street,19,30137,9
+University Ave & Western Ave,15,30138,8
+E 14th Street & N Robert Street ,15,30139,8
+Rice Street & University Ave W,15,30140,8
+N Robert Street & E 10th Street,19,30141,9
+9th Street N & Hawthorne Ave,27,30142,13
+Chicago Ave & S Washington Ave,19,30143,9
+N 4th Ave & W River Parkway,15,30144,8
+Minneapolis Park & Recreation Board,15,30145,8
+North Mississippi Regional Park,27,30146,13
+Lake Street & West River Parkway,15,30147,8
+46th Street Light Rail Station,15,30148,8
+Minnehaha Park,27,30149,13
+Fort Snelling Visitor Center,19,30150,9
+Boom Island Park,15,30151,8
+Broadway & Marshall Street NE,15,30152,8
+Coldwater Spring,15,30153,8
+11th Ave S & S 2nd Street,23,30154,11
+University of St. Thomas,15,30155,8
+Lake Nokomis,23,30156,11
+Lake Harriet Bandshell,25,30157,12
+Lake Street & Knox Ave S,41,30158,19
+Fort Snelling State Park,19,30159,9
+Dupont Ave S & W 29th Street,15,30160,8
+27th Ave S & Minnehaha Ave,15,30161,8
+Mississippi River Blvd & Summit Ave,15,30162,8
+38th Street Light Rail Station,15,30163,8
+Cleveland Ave S & Highland Parkway,15,30164,8
+Upton Ave S & Sheridan Ave S,15,30165,8
+W 36th Street & W Calhoun Parkway,19,30166,9
+E 38th Street & 42nd Ave S,15,30167,8
+Marshall Street NE & Lowry Ave,15,30168,8
+Marshall Street NE & 18th Ave NE,15,30169,8
+Nicollet Island,15,30170,8
+SE 3rd Ave & University Ave SE,15,30171,8
+2nd Street SE & 5th Ave SE,15,30172,8
+22nd Ave NE & California Street NE,15,30173,8
+Hiawatha Ave & E 50th Street,15,30174,8
+18th Ave Trail & 2nd Street NE,15,30175,8
+Washington Ave N & Cedar Lake Trail,19,30176,9
+3rd Street NE & Lowry Ave NE,15,30177,8
+5th Street NE & 1st Ave NE,15,30178,8
+Park Ave & 4th Street S,27,30179,13
+3rd Street N & 8th Ave N,19,30180,9
+5th Ave N & 4th Street N,23,30181,11
+Sanford Hall,23,30182,11
+Weisman Art Museum,19,30183,9
+Hennepin Ave & S Washington Ave,23,30184,11
+5th Street NE & 3rd Ave NE,15,30185,8
+S 5th Street & Nicollet Mall,19,30186,9
+Groveland Ave & Clifton Place,19,30187,9
+S 8th Street & 2nd Ave S,19,30188,9
+Delaware Street SE & 26th Ave SE,19,30189,9
+7th Street SE & 10th Ave SE,15,30190,8
+University Ave SE & Bedford Street SE,15,30191,8
+Cooke Hall,15,30192,8
+Mariucci Arena,25,30193,12
+23rd Ave SE & University Ave SE,23,30194,11
+Willey Hall,23,30195,11
+Civil Engineering,23,30196,11
+15th Ave SE & 4th Street SE,23,30197,11
+Bohemian Flats,15,30198,8
+Hidden Falls Park,19,30199,9
+Elwood Ave N & Oak Park Ave N,15,30201,8
+Mill City Quarter,23,30202,11
+W 50th Street & W Minnehaha Pkwy,23,30203,11
+NE Central Ave & NE 14th Ave,15,30204,8
+Nice Ride World Headquarters,7,30205,4
+,,,1833
